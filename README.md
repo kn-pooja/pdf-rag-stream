@@ -46,7 +46,7 @@ ollama pull llama3.2
 ### Step 3: Install Dependencies
 Open your terminal, navigate to your project's root folder (where requirements.txt is located), create virtual environments and install the dependencies:
 ```bash
-# Create a virtual environment named 'venrag-envv'
+# Create a virtual environment named 'rag-env'
 conda create -n rag-env python=3.12 -y
 pip install -r requirements.txt
 ```
